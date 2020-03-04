@@ -5,9 +5,9 @@ import (
 	"database/sql"
 	"fmt"
 
-	"github.com/free/sql_exporter/config"
-	"github.com/free/sql_exporter/errors"
 	log "github.com/golang/glog"
+	"github.com/moee/sql_exporter/config"
+	"github.com/moee/sql_exporter/errors"
 )
 
 // Query wraps a sql.Stmt and all the metrics populated from it. It helps extract keys and values from result rows.
