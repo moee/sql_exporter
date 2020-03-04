@@ -105,6 +105,16 @@
 			"revisionTime": "2019-10-01T01:33:58Z"
 		},
 		{
+			"checksumSHA1": "P+YWoacSinuPgrm9YhNLi83f75M=",
+			"path": "github.com/dgrijalva/jwt-go",
+			"revision": "dc14462fd58732591c7fa58cc8496d6824316a82",
+			"revisionTime": "2020-01-07T01:32:13Z"
+		},
+		{
+			"path": "github.com/dgrijalva/jwt-gos",
+			"revision": ""
+		},
+		{
 			"checksumSHA1": "Km4hczIJzag/NQ/ABuOg0bIe/SI=",
 			"path": "github.com/go-sql-driver/mysql",
 			"revision": "b4242bab7dc57d57fef955900943999b6fb34b67",
@@ -129,6 +139,12 @@
 			"revisionTime": "2019-10-22T19:55:53Z"
 		},
 		{
+			"checksumSHA1": "s5tdcjh84+tiKS3oSq77mzjB970=",
+			"path": "github.com/google/uuid",
+			"revision": "c2e93f3ae59f2904160ceaab466009f965df46d6",
+			"revisionTime": "2019-04-16T17:24:45Z"
+		},
+		{
 			"checksumSHA1": "GKTFbGomCP1fhH7mFecvwKvh7bc=",
 			"path": "github.com/lib/pq",
 			"revision": "f91d3411e481ed313eeab65ebfe9076466c39d01",
@@ -151,6 +167,12 @@
 			"path": "github.com/matttproud/golang_protobuf_extensions/pbutil",
 			"revision": "c182affec369e30f25d3eb8cd8a478dee585ae7d",
 			"revisionTime": "2018-12-31T17:19:20Z"
+		},
+		{
+			"checksumSHA1": "qXgkdePaufvVUkghGhvGbezMZSQ=",
+			"path": "github.com/pkg/browser",
+			"revision": "0a3d74bf9ce488f035cf5bc36f753a711bc74334",
+			"revisionTime": "2018-09-16T01:17:32Z"
 		},
 		{
 			"checksumSHA1": "HquvlxEmpILGOdePiJzqL/zMvUY=",
@@ -229,6 +251,12 @@
 			"path": "golang.org/x/crypto/md4",
 			"revision": "497ca9f6d64f9bb73048a960b4098309edcd2205",
 			"revisionTime": "2019-11-15T22:31:24Z"
+		},
+		{
+			"checksumSHA1": "PGEmqKttvy7NzqOkwNKI5E5xtOs=",
+			"path": "golang.org/x/crypto/ocsp",
+			"revision": "78000ba7a073cafc0278790f6bce552a0f25850e",
+			"revisionTime": "2020-03-02T20:51:17Z"
 		},
 		{
 			"checksumSHA1": "oaO93IKDzMBxeE73t4/qgDvqls8=",
