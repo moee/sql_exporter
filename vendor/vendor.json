@@ -219,6 +219,12 @@
 			"revisionTime": "2019-11-14T08:59:18Z"
 		},
 		{
+			"checksumSHA1": "G8OmjV7+uRyBClr6LGWujD+fOSg=",
+			"path": "github.com/snowflakedb/gosnowflake",
+			"revision": "91bbaf4915824fe7822ad3959ca0fa95347f867c",
+			"revisionTime": "2020-02-10T22:42:36Z"
+		},
+		{
 			"checksumSHA1": "UDvj5huw3BaGehfVRCB1UGQAtP4=",
 			"path": "golang.org/x/crypto/md4",
 			"revision": "497ca9f6d64f9bb73048a960b4098309edcd2205",
@@ -237,5 +243,5 @@
 			"revisionTime": "2019-11-19T11:51:43Z"
 		}
 	],
-	"rootPath": "github.com/free/sql_exporter"
+	"rootPath": "github.com/moee/sql_exporter"
 }
